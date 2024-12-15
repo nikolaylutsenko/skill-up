@@ -67,7 +67,6 @@ tags:
 # Advanced ASP.NET
 # Beginner Angular
 able to create CRUD operations
-
 # Core patterns
 
 #### Factory Method
@@ -96,6 +95,7 @@ able to create CRUD operations
 
 # HTTP protocol
 http theory
-
 # Networking
 networking theory
+# Database
+#### Profiling, optimizing
