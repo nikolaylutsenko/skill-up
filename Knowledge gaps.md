@@ -97,5 +97,6 @@ able to create CRUD operations
 http theory
 # Networking
 networking theory
-# Database
-#### Profiling, optimizing
+# Database && EF
+#### profiling
+#### optimization
