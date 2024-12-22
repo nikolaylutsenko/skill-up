@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Database normalization.md",
+                "file": "Enteties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database normalization"
+              "title": "Enteties"
             }
           }
         ],
@@ -232,8 +232,8 @@
   },
   "active": "99e26e4d75df5e92",
   "lastOpenFiles": [
-    "Enteties.md",
     "Notes/Database normalization.md",
+    "Enteties.md",
     "Notes/DDD/Bounded Context.md",
     "Notes/Clean Architecture.md",
     "Notes/DDD",
