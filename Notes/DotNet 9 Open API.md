@@ -123,6 +123,9 @@ if (app.Environment.IsDevelopment())
 }
 ```
 
+and api documentation will be available on :
+https://localhost:7200/scalar/v1
+
 there is a lot of customization, you can find api here [source](https://guides.scalar.com/scalar/scalar-api-references/net-integration)
 
 #### Issue with Aspire
