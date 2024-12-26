@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Aspire/Methods.md",
+                "file": "Notes/ACID in DBMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods"
+              "title": "ACID in DBMS"
             }
           }
         ]
@@ -175,13 +175,16 @@
   },
   "active": "0aa7b0968feca52b",
   "lastOpenFiles": [
+    "Pasted image 20241226141124.png",
+    "Notes/Aspire.md",
+    "Notes/ACID in DBMS.md",
+    "Notes/Aspire/Service Discovery.md",
+    "Notes/Aspire/Methods.md",
     "Notes/Aspire/Connection string and endpoint references.md",
     "Notes/Aspire/Container resource lifetime.md",
     "Notes/Aspire/Container resource lifecycle.md",
-    "Notes/Aspire/Methods.md",
     "Notes/Aspire/Getting started.md",
     "Pasted image 20241224135855.png",
-    "Notes/Aspire.md",
     "Knowledge gaps.md",
     "Project ideas.md",
     "Enteties.md",
