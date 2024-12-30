@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ACID in DBMS"
             }
+          },
+          {
+            "id": "b3059310787b0416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Clean Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clean Architecture"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,36 +188,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aa7b0968feca52b",
+  "active": "b3059310787b0416",
   "lastOpenFiles": [
-    "Pasted image 20241226141124.png",
-    "Notes/Aspire.md",
+    "Notes/Transaction Isolation Levels.md",
+    "Notes/DotNet 9 Open API.md",
+    "Notes/Design patterns.md",
+    "Notes/Database normalization.md",
+    "Notes/Clean Architecture.md",
+    "README.md",
+    "Project ideas.md",
+    "Knowledge gaps.md",
+    "From pdf.md",
+    "Resources/Pasted image 20241220125921.png",
+    "Resources/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_h9hcvaf1qc6ntcxgnajm.jpeg",
+    "Resources",
+    "Enteties.md",
     "Notes/ACID in DBMS.md",
+    "Resources/Pasted image 20241226141124.png",
+    "Notes/Aspire.md",
     "Notes/Aspire/Service Discovery.md",
     "Notes/Aspire/Methods.md",
     "Notes/Aspire/Connection string and endpoint references.md",
     "Notes/Aspire/Container resource lifetime.md",
     "Notes/Aspire/Container resource lifecycle.md",
     "Notes/Aspire/Getting started.md",
-    "Pasted image 20241224135855.png",
-    "Knowledge gaps.md",
-    "Project ideas.md",
-    "Enteties.md",
+    "Resources/Pasted image 20241224135855.png",
     "Notes/Aspire/Waiting until.md",
     "Notes/Aspire/Aspire Testing Project.md",
-    "Notes/DotNet 9 Open API.md",
-    "Pasted image 20241222181348.png",
+    "Resources/Pasted image 20241222181348.png",
     "Notes/Aspire/Persist project data.md",
     "Notes/Migrations/Apply migration in separate project.md",
     "Notes/Aspire",
     "Notes/Migrations",
-    "Notes/Database normalization.md",
     "Notes/DDD/Bounded Context.md",
-    "Notes/Clean Architecture.md",
     "Notes/DDD",
-    "Pasted image 20241220125921.png",
     "Notes",
-    "From pdf.md",
     "Welcome.md"
   ]
 }
