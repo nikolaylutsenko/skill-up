@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Clean Architecture.md",
+                "file": "Enteties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Architecture"
+              "title": "Enteties"
             }
           }
         ],
@@ -190,11 +190,12 @@
   },
   "active": "b3059310787b0416",
   "lastOpenFiles": [
+    "Notes/Indexes.md",
+    "Notes/Clean Architecture.md",
     "Notes/Transaction Isolation Levels.md",
     "Notes/DotNet 9 Open API.md",
     "Notes/Design patterns.md",
     "Notes/Database normalization.md",
-    "Notes/Clean Architecture.md",
     "README.md",
     "Project ideas.md",
     "Knowledge gaps.md",
